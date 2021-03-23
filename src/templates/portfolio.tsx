@@ -44,7 +44,7 @@ export default function porfolio ({ location, data }: PageProps<PortfolioQuery, 
                         </div>
                     </div>
                 </div>
-                <div className="lg:w-3/4 md:w-11/12 sm:w-full p-3 mt-4 md:mt-6 mx-auto lg:mt-12">
+                <div className="lg:w-3/4 md:w-11/12 sm:w-full p-3 mt-4 md:mt-6 mx-auto lg:mt-12 post-content">
                     <MDXProvider components={{ Row, Col }}>
                         <MDXRenderer>{data.mdx.body}</MDXRenderer>
                     </MDXProvider>
