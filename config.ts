@@ -44,35 +44,35 @@ const siteMetadata = {
         // },
     ],
     footerLinks: [
-        {
-            name: "PRIVACY POLICY",
-            url: "/privacy-policy",
-        },
+        // {
+        //     name: "PRIVACY POLICY",
+        //     url: "/privacy-policy",
+        // },
         {
             name: "GitHub",
-            url: "https://github.com/akzhy/gatsby-starter-elemental",
+            url: "https://github.com/marygans",
         },
     ],
     social: [
-        {
-            name: "Facebook",
-            icon: "/images/Facebook.svg",
-            url: "#",
-        },
+        // {
+        //     name: "Facebook",
+        //     icon: "/images/Facebook.svg",
+        //     url: "#",
+        // },
         {
             name: "Twitter",
             icon: "/images/Twitter.svg",
-            url: "#",
+            url: "https://twitter.com/marygansallo",
         },
         {
             name: "Instagram",
             icon: "/images/Instagram.svg",
-            url: "#",
+            url: "https://www.instagram.com/_blueseashells/",
         },
         {
             name: "Youtube",
             icon: "/images/Youtube.svg",
-            url: "#",
+            url: "https://www.youtube.com/channel/UCs2rrV4dAOWK4PvXMWIXY7A",
         },
     ],
     contact: {

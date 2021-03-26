@@ -3579,16 +3579,6 @@
                 "ofType": null
               },
               "defaultValue": null
-            },
-            {
-              "name": "enddate",
-              "description": "",
-              "type": {
-                "kind": "INPUT_OBJECT",
-                "name": "DateQueryOperatorInput",
-                "ofType": null
-              },
-              "defaultValue": null
             }
           ],
           "interfaces": null,
@@ -8053,59 +8043,6 @@
               },
               "isDeprecated": false,
               "deprecationReason": null
-            },
-            {
-              "name": "enddate",
-              "description": null,
-              "args": [
-                {
-                  "name": "formatString",
-                  "description": "Format the date using Moment.js' date tokens, e.g. `date(formatString: \"YYYY MMMM DD\")`. See https://momentjs.com/docs/#/displaying/format/ for documentation for different tokens.",
-                  "type": {
-                    "kind": "SCALAR",
-                    "name": "String",
-                    "ofType": null
-                  },
-                  "defaultValue": null
-                },
-                {
-                  "name": "fromNow",
-                  "description": "Returns a string generated with Moment.js' `fromNow` function",
-                  "type": {
-                    "kind": "SCALAR",
-                    "name": "Boolean",
-                    "ofType": null
-                  },
-                  "defaultValue": null
-                },
-                {
-                  "name": "difference",
-                  "description": "Returns the difference between this date and the current time. Defaults to \"milliseconds\" but you can also pass in as the measurement \"years\", \"months\", \"weeks\", \"days\", \"hours\", \"minutes\", and \"seconds\".",
-                  "type": {
-                    "kind": "SCALAR",
-                    "name": "String",
-                    "ofType": null
-                  },
-                  "defaultValue": null
-                },
-                {
-                  "name": "locale",
-                  "description": "Configures the locale Moment.js will use to format the date.",
-                  "type": {
-                    "kind": "SCALAR",
-                    "name": "String",
-                    "ofType": null
-                  },
-                  "defaultValue": null
-                }
-              ],
-              "type": {
-                "kind": "SCALAR",
-                "name": "Date",
-                "ofType": null
-              },
-              "isDeprecated": false,
-              "deprecationReason": null
             }
           ],
           "inputFields": null,
@@ -10018,12 +9955,6 @@
             },
             {
               "name": "childMdx___frontmatter___template",
-              "description": null,
-              "isDeprecated": false,
-              "deprecationReason": null
-            },
-            {
-              "name": "childMdx___frontmatter___enddate",
               "description": null,
               "isDeprecated": false,
               "deprecationReason": null
@@ -20953,12 +20884,6 @@
             },
             {
               "name": "frontmatter___template",
-              "description": null,
-              "isDeprecated": false,
-              "deprecationReason": null
-            },
-            {
-              "name": "frontmatter___enddate",
               "description": null,
               "isDeprecated": false,
               "deprecationReason": null
