@@ -79,7 +79,7 @@ export const createPages: GatsbyNode['createPages'] = async ({ graphql, actions 
 
         Array.from({ length: numBlogPages }).forEach((_, i) => {
             createPage({
-                path: i === 0 ? `/blog` : `/blog/${i + 1}`,
+                path: i === 0 ? `/fun-stuff` : `/fun-stuff/${i + 1}`,
                 component: path.resolve("./src/templates/blog-list.tsx"),
                 context: {
                     limit: blogPostsPerPage,
