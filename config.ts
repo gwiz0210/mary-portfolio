@@ -15,7 +15,7 @@ const siteMetadata = {
     description: `Hi there! I am passionate about all things product, design, engineering, UX and people. I've worked at Microsoft 3 years and counting, and I've had the fortune of designing and building products used by millions of people around the world. In addition to this, I am passionate about urban development and real estate. In early 2021 I started a proptech company called Coraway. My primary goal is to put a permanent dent in the housing affordability crisis.`,
     about:
         // "I'm originally from the DC area and currently residing in Austin, TX after living in Seattle, WA for some years. Outside of work, I am Mentor to aspiring design engineers and entrpreneurs. I also enjoy playing soccer or flag football, traveling, hiking, investing in real estate, reading poetry, and listening to podcasts.",
-        "Outside of work, I am Mentor, speaker, and educator to aspiring design engineers and entrpreneurs. I also enjoy playing soccer or flag football, traveling, hiking, kayaking, investing in real estate, reading poetry, and listening to podcasts.",
+        "I enjoy taking complex problems and turning them into simple and beautiful experiences. Outside of work, I am Mentor, speaker, and educator to aspiring design engineers and entrpreneurs. I also enjoy playing soccer or flag football, traveling, hiking, kayaking, investing in real estate, reading poetry, and listening to podcasts.",
     author: `@_akzhy`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
