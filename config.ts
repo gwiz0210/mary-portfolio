@@ -31,8 +31,8 @@ const siteMetadata = {
             url: "/about",
         },
         {
-            name: "FUN",
-            url: "/fun-stuff",
+            name: "HOBBIES",
+            url: "/hobbies",
         },
         {
             name: "PORTFOLIO",
