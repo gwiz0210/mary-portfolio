@@ -63,7 +63,7 @@ export const ItemPortfolio: React.FC<ItemPortfolioProps> = ({ data, even }) => {
                         <div
                             className="image relative z-10"
                             style={{
-                                transform: `translate(0px,${transform.current}px)`,
+                                // transform: `translate(0px,${transform.current}px)`,
                             }}
                         >
                             <Img
