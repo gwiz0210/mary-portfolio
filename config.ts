@@ -44,10 +44,10 @@ const siteMetadata = {
         // },
     ],
     footerLinks: [
-        // {
-        //     name: "PRIVACY POLICY",
-        //     url: "/privacy-policy",
-        // },
+        {
+            name: "PRIVACY POLICY",
+            url: "/privacy-policy",
+        },
         {
             name: "GitHub",
             url: "https://github.com/marygans",
