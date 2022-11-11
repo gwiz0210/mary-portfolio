@@ -31,17 +31,13 @@ const siteMetadata = {
             url: "/about",
         },
         {
-            name: "PASSION PROJECTS",
-            url: "/passions",
-        },
-        {
             name: "PORTFOLIO",
             url: "/portfolio",
         },
-        // {
-        //     name: "CONTACT",
-        //     url: "/contact",
-        // },
+        {
+            name: "CONSULTNG",
+            url: "/blog",
+        },
     ],
     footerLinks: [
         {
