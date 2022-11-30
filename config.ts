@@ -34,10 +34,10 @@ const siteMetadata = {
             name: "PORTFOLIO",
             url: "/portfolio",
         },
-        {
-            name: "CONSULTNG",
-            url: "/blog",
-        },
+        // {
+        //     name: "CONSULTNG",
+        //     url: "/blog",
+        // },
     ],
     footerLinks: [
         {
